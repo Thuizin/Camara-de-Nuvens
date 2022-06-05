@@ -4534,6 +4534,10 @@ input, select, textarea {
 				background-color: #ffffff;
 			}
 
+			.despedida{
+				text-align: center;
+			}
+
 		@media screen and (max-width: 980px) {
 
 			#navPanelToggle {
@@ -4687,3 +4691,4 @@ input, select, textarea {
 		}
 
 	}
+
