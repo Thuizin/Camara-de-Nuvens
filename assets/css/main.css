@@ -4538,6 +4538,10 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			.fotos{
+				display: grid;
+			}
+
 		@media screen and (max-width: 980px) {
 
 			#navPanelToggle {
