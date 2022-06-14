@@ -4540,8 +4540,9 @@ input, select, textarea {
 
 			.fotos{
 				display: grid;
-			}
+		}
 
+		
 		@media screen and (max-width: 980px) {
 
 			#navPanelToggle {
@@ -4697,14 +4698,6 @@ input, select, textarea {
 	}
 
 	.img-muons{
-		width: 10px;
+		width: auto;
 	}
-
-	.img-eletrons{
-		width: 10px;
-	}
-
-	.img-decaimento{
-		width: 10%;
-	}
-
+	
