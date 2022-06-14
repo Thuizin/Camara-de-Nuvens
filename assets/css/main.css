@@ -4696,3 +4696,15 @@ input, select, textarea {
 
 	}
 
+	.img-muons{
+		width: 10px;
+	}
+
+	.img-eletrons{
+		width: 10px;
+	}
+
+	.img-decaimento{
+		width: 10%;
+	}
+
